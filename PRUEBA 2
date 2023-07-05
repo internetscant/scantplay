@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Japanet Channel
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-
-
+#EXTINF:0,01 A&E
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/139464
+#EXTINF:0,02 Amc
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/139466
+#EXTINF:0,03 Animal planet
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/236020
