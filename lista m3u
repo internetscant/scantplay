@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" ,NFLNETWORK
+#EXTINF:0,NFLNETWORK
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/138419
 
