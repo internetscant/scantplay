@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png" group-title="Without category", Azteca Uno HD (3)
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png" group-title="Without category", Azteca Uno HD (4)
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas.png" group-title="Without category", A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_6112.png" group-title="Without category", Az Corazon STD
-http://usuarios.club/usuarios/src5/azcorazon/mayo/mayo.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.LFbQVqiGyxhoJNUkxmloSAHaHa&amp;w=200&amp;h=184&amp;c=7&amp;o=5&amp;pid=1.7" group-title="Without category", TVMas Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1, TV Cuatro 4.1 | HD
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-
-#EXTINF:-1, TV Cuatro 4.2 | HD
-https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.adn40.mx/images/logo-ftr.png" group-title="Without category", ADN 40 HD
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
