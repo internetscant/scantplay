@@ -47,6 +47,9 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/144285
 #EXTINF:0,09 | COMBATE BR | FHD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/144286
+#EXTINF:0,09.1 | TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/150576
 #EXTINF:0,10 | FORMULA 1 DAZN | HD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/144288
