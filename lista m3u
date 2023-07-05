@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,NFL NETWORK
+#EXTINF:0,NFLNETWORK
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/138419
 
