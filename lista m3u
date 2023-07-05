@@ -65,7 +65,7 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/144291
 #EXTINF:0,14 | TD+ 2 C.R. | HD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/144292
-#EXTINF:0,18 tvg-logo="https://w7.pngwing.com/pngs/732/713/png-transparent-tvg-hd-logo.png" | TVG | HD
+#EXTINF:0,18 tvg-logo="https://w7.pngwing.com/pngs/732/713/png-transparent-tvg-hd-logo.png", TVG 
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/144296
 #EXTINF:0,19 | DEPORTV | HD
