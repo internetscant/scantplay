@@ -2,7 +2,6 @@
 #EXTINF:-1,NFLNETWORK
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/138419
-
 #EXTINF:0,NFL REDZONE | HD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/138420
