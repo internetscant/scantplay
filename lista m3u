@@ -464,3 +464,15 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/236044
 #EXTINF:0,50 | CARACOL | HD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/239780
+#EXTINF:0,51 | MTV | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/2077
+#EXTINF:0,52 | STAR+ | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/209265
+#EXTINF:0,53 | STAR CHANNEL | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/270525
+#EXTINF:0,54 | ENLACE | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/132890
