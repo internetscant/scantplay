@@ -476,7 +476,9 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/270525
 #EXTINF:0,54 | ENLACE | HD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/132890
-ewtn
+#EXTINF:0,55 | ewtn | HD
+#EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/130022
-golf channel
+#EXTINF:0,56 | golf channel| HD
+#EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/276042
