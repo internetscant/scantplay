@@ -455,5 +455,12 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/152975
 #EXTINF:0,47 | FOOD NETWORK | HD
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/152976
-
-
+#EXTINF:0,48 | RCN | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/135035
+#EXTINF:0,49 | FRANCE 24 | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/236044
+#EXTINF:0,50 | CARACOL | HD
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/239780
