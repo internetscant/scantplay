@@ -482,3 +482,10 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/130022
 #EXTINF:0,56 | golf channel
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/276042
+#EXTINF:0,57 | COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/222600
+#EXTINF:0,58 | TL NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/146527
+
