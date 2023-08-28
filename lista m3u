@@ -488,4 +488,30 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/222600
 #EXTINF:0,58 | TL NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/146527
-
+#EXTINF:0,59 | AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/159123
+#EXTINF:0,60 | AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/159122
+#EXTINF:0,61 | CANAL 6
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/126543
+#EXTINF:0,61 | CANAL 11
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/131990
+#EXTINF:0,61 | CANAL 13
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/131991
+#EXTINF:0,62 | CINE FAMILIAR 
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/270569
+#EXTINF:0,63 | CINE HISPANO 
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/270568
+#EXTINF:0,64 | CINE PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/270566
+#EXTINF:0,65 | CITY TV
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/3573
