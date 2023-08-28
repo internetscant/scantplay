@@ -605,3 +605,9 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/223553
 #EXTINF:0,95 | TELERAMA
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/223551
+#EXTINF:0,96 | UNIVISION
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/2377
+#EXTINF:0,97 | WIN SPORT +
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/167467
