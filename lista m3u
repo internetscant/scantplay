@@ -611,3 +611,12 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/2377
 #EXTINF:0,97 | WIN SPORT +
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/167467
+#EXTINF:0,98 | UNICABLE
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/228535
+#EXTINF:0,99 | WUAN +
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/146443
+#EXTINF:0,100 | TVC DEPORTES 
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/150614
