@@ -527,9 +527,6 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/231743
 #EXTINF:0,70 | ESPN COL3
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/227791
-#EXTINF:0,71 | FASHION TV
-#EXTVLCOPT:network-caching=1000
-http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/180494
 #EXTINF:0,72 | GLITZ
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/150630
@@ -710,3 +707,6 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/156419
 #EXTINF:0,130 | EL TRECE
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/156421
+#EXTINF:0,131 | FASHION TV
+#EXTVLCOPT:network-caching=1000
+http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/180494
