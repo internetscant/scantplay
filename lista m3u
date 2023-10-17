@@ -1,35 +1,62 @@
 #EXTM3U
-#EXTINF:0,NFL NETWORK | HD
+#EXTINF:0,01 EL CANAL DEL FUTBOL
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/PPV/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,02 TELEAMAZONAS
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/Teleamazonas/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,03 ECUAVISA
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/Ecuavisa/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,04 OROMAR
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/Oromar/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,05 TC TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/TC/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,07 GOLTV
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/GolTV/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,08 ESPN
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/ESPN/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,09 ESPN2
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/ESPN2/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,10 FOX SPORT
+#EXTVLCOPT:network-caching=1000
+http://51.158.61.233:9999/Fox_Sports1/video.m3u8?token=MQn1vnyBRkrGC2
+#EXTINF:0,160 NFL NETWORK | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222338
-#EXTINF:0,01 | FOX SPORTS AR | HD
+#EXTINF:0,132 | FOX SPORTS AR | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167032
-#EXTINF:0,02 | FOX SPORTS 2 LAT | HD
+#EXTINF:0,133 | FOX SPORTS 2 LAT | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270381
-#EXTINF:0,03 | FOX SPORTS 3 LAT | FHD
+#EXTINF:0,134 | FOX SPORTS 3 LAT | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270382
-#EXTINF:0,04 | BEIN SPORTS Ñ | FHD
+#EXTINF:0,135 | BEIN SPORTS Ñ | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/230400
-#EXTINF:0,05 | WIN SPORTS | HQ
+#EXTINF:0,136 | WIN SPORTS | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2683
-#EXTINF:0,06 | WIN SPORTS + | FHD
+#EXTINF:0,137 | WIN SPORTS + | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
-#EXTINF:0,07 | BEIN SPORTS XTRA Ñ | HD
+#EXTINF:0,138 | BEIN SPORTS XTRA Ñ | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/1971
-#EXTINF:0,08 | SKY SPORTS LA LIGA | HD
+#EXTINF:0,139 | SKY SPORTS LA LIGA | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/movie/b1jNV0Rnye/L4yIsSa8vp/135237.mp4
-#EXTINF:0,09 | MOVISTAR LIGA DE CAMPEONES | HD
+#EXTINF:0,140 | MOVISTAR LIGA DE CAMPEONES | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2692
-#EXTINF:0,10 | NBA TV | HD
+#EXTINF:0,141 | NBA TV | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222256
 #EXTINF:0,12 | FOX SPORTS MX | HQ
@@ -105,31 +132,31 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
 #EXTINF:0,01 | A&E  | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139463
-#EXTINF:0,02 | A&E MX | FHD 
+#EXTINF:0,142 | A&E MX | FHD 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139462
-#EXTINF:0,03 | A&E | HD®
+#EXTINF:0,143 | A&E | HD®
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139461
-#EXTINF:0,06 | AMC MX | FHD 
+#EXTINF:0,144 | AMC MX | FHD 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139466
-#EXTINF:0,08 | AMC | FHD
+#EXTINF:0,145 | AMC | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139467
-#EXTINF:0,10 | STUDIO UNIVERSAL | FHD
+#EXTINF:0,146 | STUDIO UNIVERSAL | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139470
-#EXTINF:0,11 | STUDIO UNIVERSAL HD | SAT
+#EXTINF:0,147 | STUDIO UNIVERSAL HD | SAT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139471
-#EXTINF:0,12 | STUDIO UNIVERSAL | HQ
+#EXTINF:0,148 | STUDIO UNIVERSAL | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236071
-#EXTINF:0,13 | UNIVERSAL TV | SD
+#EXTINF:0,149 | UNIVERSAL TV | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236077
-#EXTINF:0,14 | UNIVERSAL TV | HD ENC
+#EXTINF:0,150 | UNIVERSAL TV | HD ENC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139471
 #EXTINF:0,15 | UNIVERSAL TV | HD
@@ -285,25 +312,25 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156086
 #EXTINF:0,35 | DISCOVERY KIDS | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156088
-#EXTINF:0,02 | DISCOVERY CHANNEL | HD
+#EXTINF:0,156 | DISCOVERY CHANNEL | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152893
-#EXTINF:0,03 | DISCOVERY CHANNEL | FHD SAT
+#EXTINF:0,155 | DISCOVERY CHANNEL | FHD SAT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152894
-#EXTINF:0,04 | DISCOVERY FAMILIA | HD
+#EXTINF:0,154 | DISCOVERY FAMILIA | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222617
-#EXTINF:0,06 | DISCOVERY ID | HD
+#EXTINF:0,153 | DISCOVERY ID | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152898
-#EXTINF:0,07 | DISCOVERY ID | FHD
+#EXTINF:0,152 | DISCOVERY ID | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152899
-#EXTINF:0,09 | DISCOVERY WORLD | FHD
+#EXTINF:0,151 | DISCOVERY WORLD | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152902
-#EXTINF:0,10 | DISCOVERY WORLD | FHD
+#EXTINF:0,150 | DISCOVERY WORLD | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152903
 #EXTINF:0,12 | DISCOVERY SCIENCE | HD
@@ -357,10 +384,10 @@ http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/152960
 #EXTINF:0,08 | CNN CHILE | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152334
-#EXTINF:0,11 | CNN INTERNACIONAL | HD
+#EXTINF:0,158 | CNN INTERNACIONAL | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152963
-#EXTINF:0,13 | FOX NEWS | HD
+#EXTINF:0,157 | FOX NEWS | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152968
 #EXTINF:0,16 | DW | FHD
