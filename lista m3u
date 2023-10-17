@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:0,01 EL CANAL DEL FUTBOL
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/PPV/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,02 TELEAMAZONAS
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/Teleamazonas/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,03 ECUAVISA
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/Ecuavisa/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,04 OROMAR
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/Oromar/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,05 TC TELEVISION
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/TC/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,07 GOLTV
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/GolTV/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,08 ESPN
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/ESPN/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,09 ESPN2
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/ESPN2/video.m3u8?token=MQn1vnyBRkrGC2
-#EXTINF:0,10 FOX SPORT
-#EXTVLCOPT:network-caching=1000
-http://51.158.61.233:9999/Fox_Sports1/video.m3u8?token=MQn1vnyBRkrGC2
 #EXTINF:0,160 NFL NETWORK | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222338
