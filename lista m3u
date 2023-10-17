@@ -600,3 +600,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156421
 #EXTINF:0,131 | FASHION TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/180494
+#EXTINF:0,132 | EL CANAL DEL FUTBOL
+#EXTVLCOPT:network-caching=1000
+http://38.44.109.58:27798/play/ASez1NWE6EVtS9l8VT_0mHoL_rFpN7YOUO8tK44ZPfMwFgXNo3wa0puJ4y4VPvo3/ts
