@@ -348,13 +348,13 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152952
 #EXTINF:0,45 | HOLA TV | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/228524
-##EXTINF:0,06 | CNN ESPAÑOL | HQ
+##EXTINF:0,278 | CNN ESPAÑOL | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152959
-#EXTINF:0,07 | CNN ESPAÑOL | HQ²
+#EXTINF:0,378 | CNN ESPAÑOL | HQ²
 #EXTVLCOPT:network-caching=1000
 http://streamingprotv.com:8000/b1jNV0Rnye/L4yIsSa8vp/152960
-#EXTINF:0,08 | CNN CHILE | HD
+#EXTINF:0,147 | CNN CHILE | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152334
 #EXTINF:0,158 | CNN INTERNACIONAL | HD
