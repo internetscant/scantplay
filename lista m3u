@@ -102,7 +102,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/132289
 #EXTINF:0,36 | WIN SPORTS + | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
-#EXTINF:0,01 | A&E  | SD
+#EXTINF:0,245 | A&E  | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139463
 #EXTINF:0,142 | A&E MX | FHD 
@@ -225,25 +225,25 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/153943
 #EXTINF:0,71 | DHE | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156224
-#EXTINF:0,01 | CARTOON NETWORK | SD
+#EXTINF:0,248 | CARTOON NETWORK | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150433
-#EXTINF:0,02 | CARTOON NETWORK | FHD
+#EXTINF:0,249 | CARTOON NETWORK | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150434
-#EXTINF:0,05 | CARTOONITO | SD
+#EXTINF:0,250 | CARTOONITO | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150436
-#EXTINF:0,06 | CARTOONITO | FHD
+#EXTINF:0,251 | CARTOONITO | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150438
-#EXTINF:0,07 | NICK JR. | SD
+#EXTINF:0,252 | NICK JR. | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150440
-#EXTINF:0,08 | NICK JR. | FHD°
+#EXTINF:0,253 | NICK JR. | FHD°
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150442
-#EXTINF:0,10 | NICK | HQ
+#EXTINF:0,254 | NICK | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150444
 #EXTINF:0,14 | NICKMUSIC | SD
