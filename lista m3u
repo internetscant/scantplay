@@ -132,7 +132,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236077
 #EXTINF:0,150 | UNIVERSAL TV | HD ENC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139471
-#EXTINF:0,15 | UNIVERSAL TV | HD
+#EXTINF:0,01.2 | UNIVERSAL TV | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139871
 #EXTINF:0,17 | CANAL WARNER | SD
@@ -363,7 +363,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152963
 #EXTINF:0,157 | FOX NEWS | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152968
-#EXTINF:0,16 | DW | FHD
+#EXTINF:0,01.3 | DW | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222642
 #EXTINF:0,47 | FOOD NETWORK | HD
