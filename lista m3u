@@ -220,9 +220,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156086
 #EXTINF:0,84 | DISCOVERY CHANNEL | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152893
-#EXTINF:0,85 | DISCOVERY CHANNEL | FHD SAT
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152894
 #EXTINF:0,86 | DISCOVERY FAMILIA | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222617
@@ -292,269 +289,266 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152963
 #EXTINF:0,109 | FOX NEWS | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152968
-#EXTINF:0,47 | FOOD NETWORK | HD
+#EXTINF:0,110 | FOOD NETWORK | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152976
-#EXTINF:0,48 | RCN | HD
+#EXTINF:0,111 | RCN | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3576
-#EXTINF:0,49 | FRANCE 24 | HD
+#EXTINF:0,112 | FRANCE 24 | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150629
-#EXTINF:0,50 | CARACOL | HD
+#EXTINF:0,113 | CARACOL | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150627
-#EXTINF:0,51 | MTV | HD
+#EXTINF:0,114 | MTV | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2080
-#EXTINF:0,52 | STAR+ | HD
+#EXTINF:0,115 | STAR+ | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/264060
-#EXTINF:0,53 | STAR CHANNEL | HD
+#EXTINF:0,116 | STAR CHANNEL | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/226701
-#EXTINF:0,54 | ENLACE | HD
+#EXTINF:0,117 | ENLACE | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/132890
-#EXTINF:0,55 | ewtn | HD
+#EXTINF:0,118 | ewtn | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/130022
-#EXTINF:0,56 | golf channel
+#EXTINF:0,119 | golf channel
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222271
-#EXTINF:0,57 | COMEDY CENTRAL
+#EXTINF:0,120 | COMEDY CENTRAL
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150624
-#EXTINF:0,58 | TL NOVELAS
+#EXTINF:0,121 | TL NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/146528
-#EXTINF:0,59 | AZTECA 7
+#EXTINF:0,122 | AZTECA 7
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150605
-#EXTINF:0,60 | AZ CORAZON
+#EXTINF:0,123 | AZ CORAZON
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/159122
-#EXTINF:0,61 | CANAL 6
+#EXTINF:0,124 | CANAL 6
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131628
-#EXTINF:0,61 | CANAL 11
+#EXTINF:0,125 | CANAL 11
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/125937
-#EXTINF:0,61 | CANAL 13
+#EXTINF:0,126 | CANAL 13
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/151020
-#EXTINF:0,62 | CINE FAMILIAR 
+#EXTINF:0,127 | CINE FAMILIAR 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270569
-#EXTINF:0,63 | CINE HISPANO 
+#EXTINF:0,128 | CINE HISPANO 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270568
-#EXTINF:0,64 | CINE PREMIUM
+#EXTINF:0,129 | CINE PREMIUM
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270566
-#EXTINF:0,65 | CITY TV
+#EXTINF:0,130 | CITY TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3573
-#EXTINF:0,66 | CLARO SPORT
+#EXTINF:0,131 | CLARO SPORT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/158774
-#EXTINF:0,67 | DISCOVERY LIFE
+#EXTINF:0,132 | DISCOVERY LIFE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222615
-#EXTINF:0,69 | ESPN COL
+#EXTINF:0,133 | ESPN COL
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/135036
-#EXTINF:0,70 | ESPN COL3
+#EXTINF:0,134 | ESPN COL3
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/231744
-#EXTINF:0,72 | GLITZ
+#EXTINF:0,135 | GLITZ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150630
-#EXTINF:0,73 | GLOBAL
+#EXTINF:0,136 | GLOBAL
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/291991
-#EXTINF:0,74 | HTV
+#EXTINF:0,137 | HTV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2078
-#EXTINF:0,75 | RETRO MUSIC
+#EXTINF:0,138 | RETRO MUSIC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3774
-#EXTINF:0,76 | NICK MUSIC
+#EXTINF:0,139 | NICK MUSIC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150449
-#EXTINF:0,80 | PASIONES
+#EXTINF:0,140 | PASIONES
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150502
-#EXTINF:0,81 | PANAMERICANA
+#EXTINF:0,141 | PANAMERICANA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3329
-#EXTINF:0,81 | TELEMUNDO NY
+#EXTINF:0,142 | TELEMUNDO NY
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150577
-#EXTINF:0,82 | TELEMUNDO NEW ORLEANDS
+#EXTINF:0,143 | TELEMUNDO NEW ORLEANDS
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150576 
-#EXTINF:0,83 | TELE REBELDE
+#EXTINF:0,144 | TELE REBELDE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/173300 
-#EXTINF:0,84 | TELEHIT
+#EXTINF:0,145 | TELEHIT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2081
-#EXTINF:0,85 | TELEVEN
+#EXTINF:0,146 | TELEVEN
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167560
-#EXTINF:0,86 | TELE ISLAS
+#EXTINF:0,147 | TELE ISLAS
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3577
-#EXTINF:0,87 | TELEUNO
+#EXTINF:0,148 | TELEUNO
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/125913
-#EXTINF:0,88 | TELENTIOQUIA
+#EXTINF:0,149 | TELENTIOQUIA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3578
-#EXTINF:0,89 | TELETICA 7
+#EXTINF:0,150 | TELETICA 7
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/125905
-#EXTINF:0,90 | TELERED
+#EXTINF:0,151 | TELERED
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223551
-#EXTINF:0,91 | TELEFUTURO
+#EXTINF:0,152 | TELEFUTURO
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131713
-#EXTINF:0,92 | TELESISTEMA
+#EXTINF:0,153 | TELESISTEMA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131637
-#EXTINF:0,93 | TELEPACIFICO
+#EXTINF:0,154 | TELEPACIFICO
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3584
-#EXTINF:0,94 | ZARACAY TV
+#EXTINF:0,155 | ZARACAY TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223553
-#EXTINF:0,95 | TELERAMA
+#EXTINF:0,156 | TELERAMA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223551
-#EXTINF:0,96 | UNIVISION
+#EXTINF:0,157 | UNIVISION
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2377
-#EXTINF:0,97 | WIN SPORT +
+#EXTINF:0,158 | WIN SPORT +
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
-#EXTINF:0,98 | UNICABLE
+#EXTINF:0,159 | UNICABLE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150596
-#EXTINF:0,100 | TVC DEPORTES 
+#EXTINF:0,160 | TVC DEPORTES 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150614
-#EXTINF:0,101 | TUDN MEX 
+#EXTINF:0,161 | TUDN MEX 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/153955
-#EXTINF:0,102 | BEING SPORT Ñ
+#EXTINF:0,162 | BEING SPORT Ñ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2682
-#EXTINF:0,103 | TYC SPORT
+#EXTINF:0,163 | TYC SPORT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167479
-#EXTINF:0,104 | TNT SPORT
+#EXTINF:0,164 | TNT SPORT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/132289
-#EXTINF:0,106 | TNT SPORT 3
+#EXTINF:0,165 | TNT SPORT 3
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167473
-#EXTINF:0,107 | TNT SERIES
+#EXTINF:0,166 | TNT SERIES
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/226704
-#EXTINF:0,108 | TV5 MONDE
+#EXTINF:0,167 | TV5 MONDE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152948
-#EXTINF:0,110 | E¡
+#EXTINF:0,168 | E¡
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150569
-#EXTINF:0,111 | TRUTV
+#EXTINF:0,169 | TRUTV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150574
-#EXTINF:0,112 | STAR TVE
+#EXTINF:0,170 | STAR TVE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150579
-#EXTINF:0,113 | GLOBOVISION
+#EXTINF:0,171 | GLOBOVISION
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150594
-#EXTINF:0,114 | NBC UNIVERSO
+#EXTINF:0,172 | NBC UNIVERSO
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150600
-#EXTINF:0,116 | VENEVISION
+#EXTINF:0,173 | VENEVISION
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150592
-#EXTINF:0,117 | NASA TV
+#EXTINF:0,174 | NASA TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150606
-#EXTINF:0,118 | ANTENA 3
+#EXTINF:0,175 | ANTENA 3
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150601
-#EXTINF:0,119 | BITTIME
+#EXTINF:0,176 | BITTIME
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150608
-#EXTINF:0,120 | MAS CHIC
+#EXTINF:0,177 | MAS CHIC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150611
-#EXTINF:0,121 | TELEFE
+#EXTINF:0,178 | TELEFE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156428
-#EXTINF:0,122 | UNIMAS
+#EXTINF:0,179 | UNIMAS
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150617
-#EXTINF:0,123 | MEGATV
+#EXTINF:0,180 | MEGATV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131633
-#EXTINF:0,125 | ECOTEL EC
+#EXTINF:0,181 | ECOTEL EC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131895
-#EXTINF:0,126 | AMERICA TV
+#EXTINF:0,182 | AMERICA TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156406
-#EXTINF:0,127 | CANAL TN
+#EXTINF:0,183 | CANAL TN
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156411
-#EXTINF:0,128 | CRONICA TV
+#EXTINF:0,184 | CRONICA TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/183129
-#EXTINF:0,129 | EL NUEVE
+#EXTINF:0,185 | EL NUEVE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156419
-#EXTINF:0,130 | EL TRECE
+#EXTINF:0,186 | EL TRECE
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156421
-#EXTINF:0,131 | FASHION TV
+#EXTINF:0,187 | FASHION TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/180494
-#EXTINF:0,132 NFL NETWORK | HD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222338
-#EXTINF:0,132 | FOX SPORTS AR | HD
+#EXTINF:0,188 | FOX SPORTS AR | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167032
-#EXTINF:0,133 | FOX SPORTS 2 LAT | HD
+#EXTINF:0,189 | FOX SPORTS 2 LAT | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270381
-#EXTINF:0,134 | FOX SPORTS 3 LAT | FHD
+#EXTINF:0,190 | FOX SPORTS 3 LAT | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270382
-#EXTINF:0,135 | BEIN SPORTS Ñ | FHD
+#EXTINF:0,191 | BEIN SPORTS Ñ | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/230400
-#EXTINF:0,136 | WIN SPORTS | HQ
+#EXTINF:0,192 | WIN SPORTS | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2683
-#EXTINF:0,137 | WIN SPORTS + | FHD
+#EXTINF:0,193 | WIN SPORTS + | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
-#EXTINF:0,138 | BEIN SPORTS XTRA Ñ | HD
+#EXTINF:0,194 | BEIN SPORTS XTRA Ñ | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/1971
-#EXTINF:0,139 | SKY SPORTS LA LIGA | HD
+#EXTINF:0,195 | SKY SPORTS LA LIGA | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/movie/b1jNV0Rnye/L4yIsSa8vp/135237.mp4
-#EXTINF:0,140 | MOVISTAR LIGA DE CAMPEONES | HD
+#EXTINF:0,196 | MOVISTAR LIGA DE CAMPEONES | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2692
-#EXTINF:0,141 | NBA TV | HD
+#EXTINF:0,197 | NBA TV | HD
 #EXTVLCOPT:network-caching=1000
