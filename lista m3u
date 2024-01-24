@@ -121,9 +121,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150580
 #EXTINF:0,46 | TNT SERIES | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143707
-#EXTINF:0,47 | TNT SERIES | FHD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143717
 #EXTINF:0,48 | TNT SERIES | HD®
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143709
@@ -187,15 +184,9 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150438
 #EXTINF:0,68 | NICK JR. | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150440
-#EXTINF:0,69 | NICK JR. | FHD°
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150442
 #EXTINF:0,70 | NICK | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150444
-#EXTINF:0,71 | NICKMUSIC | SD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150448
 #EXTINF:0,72 | DISNEY CHANNEL | SD®
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150451
