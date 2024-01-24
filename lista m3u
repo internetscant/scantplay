@@ -220,9 +220,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222617
 #EXTINF:0,87 | DISCOVERY ID | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152898
-#EXTINF:0,88 | DISCOVERY ID | FHD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152899
 #EXTINF:0,89 | DISCOVERY WORLD | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152902
