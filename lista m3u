@@ -103,9 +103,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/140198
 #EXTINF:0,40 | CINEMAX | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143694
-#EXTINF:0,41 | CINEMAX | FHD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222377
 #EXTINF:0,42 | CINECANAL | HD SAT
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143698
@@ -190,9 +187,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150444
 #EXTINF:0,72 | DISNEY CHANNEL | SD®
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150451
-#EXTINF:0,73 | DISNEY CHANNEL | HD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150453
 #EXTINF:0,74 | DISNEY JR. | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150459
