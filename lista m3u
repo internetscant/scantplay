@@ -73,27 +73,12 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
 #EXTINF:0,23 | A&E  | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139463
-#EXTINF:0,24 | A&E MX | FHD 
-#EXTVLCOPT:network-caching=1000
-#http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139462
-#EXTINF:0,25 | A&E | HD®
-#EXTVLCOPT:network-caching=1000
-#http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139461
 #EXTINF:0,26 | AMC MX | FHD 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139466
-#EXTINF:0,27 | AMC | FHD
-#EXTVLCOPT:network-caching=1000
-#http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139467
 #EXTINF:0,28 | STUDIO UNIVERSAL | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139470
-#EXTINF:0,29 | STUDIO UNIVERSAL HD | SAT
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139471
-#EXTINF:0,30 | STUDIO UNIVERSAL | HQ
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236071
 #EXTINF:0,31 | UNIVERSAL TV | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236077
@@ -109,9 +94,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/226702
 #EXTINF:0,35 | SPACE | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139876
-#EXTINF:0,36 | SPACE | FHD DUAL
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236070
 #EXTINF:0,37 | PARAMOUNT NETWORK | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139945
