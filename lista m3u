@@ -82,9 +82,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139470
 #EXTINF:0,31 | UNIVERSAL TV | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236077
-#EXTINF:0,32 | UNIVERSAL TV | HD ENC
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139471
 #EXTINF:0,33 | UNIVERSAL TV | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139871
