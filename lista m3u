@@ -75,16 +75,16 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139463
 #EXTINF:0,24 | A&E MX | FHD 
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139462
+#http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139462
 #EXTINF:0,25 | A&E | HD®
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139461
+#http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139461
 #EXTINF:0,26 | AMC MX | FHD 
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139466
 #EXTINF:0,27 | AMC | FHD
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139467
+#http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139467
 #EXTINF:0,28 | STUDIO UNIVERSAL | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139470
