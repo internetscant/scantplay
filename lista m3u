@@ -211,18 +211,12 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150470
 #EXTINF:0,79 | BABY FIRST | SD°
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150473
-#EXTINF:0,80 | BABY FIRTS | SD®
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150474
 #EXTINF:0,81 | BABY TV | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150475
 #EXTINF:0,82 | DISCOVERY KIDS | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156086
-#EXTINF:0,83 | DISCOVERY KIDS | FHD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156088
 #EXTINF:0,84 | DISCOVERY CHANNEL | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152893
@@ -241,9 +235,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152899
 #EXTINF:0,89 | DISCOVERY WORLD | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152902
-#EXTINF:0,90 | DISCOVERY WORLD | FHD
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152903
 #EXTINF:0,91 | DISCOVERY SCIENCE | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152906
