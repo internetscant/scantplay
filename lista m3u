@@ -315,7 +315,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222271
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150624
 #EXTINF:0,121 | TL NOVELAS
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/146528
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/146527
 #EXTINF:0,122 | AZTECA 7
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150605
@@ -550,3 +550,15 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152975
 #EXTINF:0,199 | RT | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/183146
+#EXTINF:0,200 | LAS ESTRELLAS | HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/159150
+#EXTINF:0,201 | AFFIZIONADOS | HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156469
+#EXTINF:0,203 | THE GOURMET | HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152944
+#EXTINF:0,204 | FOOD NETWORK| HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152976
