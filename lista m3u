@@ -421,9 +421,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223553
 #EXTINF:0,156 | TELERAMA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223551
-#EXTINF:0,157 | UNIVISION
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/319459
 #EXTINF:0,158 | WIN SPORT +
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
@@ -562,3 +559,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152944
 #EXTINF:0,204 | FOOD NETWORK| HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152976
+#EXTINF:0,205 | UNIVISION | HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/319459
