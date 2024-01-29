@@ -541,5 +541,12 @@ http://samuraitv.online:8000/movie/b1jNV0Rnye/L4yIsSa8vp/135237.mp4
 #EXTINF:0,196 | MOVISTAR LIGA DE CAMPEONES | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2692
-#EXTINF:0,197 | NBA TV | HD
+#EXTINF:0,197 | CGTN | HD
 #EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/180328
+#EXTINF:0,198 | DW | HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152975
+#EXTINF:0,199 | RT | HD
+#EXTVLCOPT:network-caching=1000
+http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/183146
