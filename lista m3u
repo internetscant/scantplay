@@ -295,7 +295,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150627
 #EXTINF:0,114 | MTV | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2080
-#EXTINF:0,115 | STAR+ | HD
+#EXTINF:0,115 | ESPN 3 | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/264060
 #EXTINF:0,116 | STAR CHANNEL | HD
@@ -309,7 +309,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/132890
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/130022
 #EXTINF:0,119 | golf channel
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/222271
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/276042
 #EXTINF:0,120 | COMEDY CENTRAL
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150624
@@ -333,13 +333,13 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/125937
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/151020
 #EXTINF:0,127 | CINE FAMILIAR 
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270569
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/474293
 #EXTINF:0,128 | CINE HISPANO 
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270568
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/143730
 #EXTINF:0,129 | CINE PREMIUM
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270566
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/143726
 #EXTINF:0,130 | CITY TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3573
@@ -360,7 +360,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/231744
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150630
 #EXTINF:0,136 | GLOBAL
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/291991
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/173603
 #EXTINF:0,137 | HTV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2078
