@@ -562,3 +562,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/152976
 #EXTINF:0,205 | UNIVISION | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/319459
+#EXTINF:0,206 |  T_UDN MX  | HD
+#EXTVLCOPT:network-caching=1000
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/153955
+
