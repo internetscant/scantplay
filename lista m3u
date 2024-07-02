@@ -61,15 +61,15 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/146532
 #EXTINF:0,19 | EUROSPORTS | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/146534
-#EXTINF:0,20 | AFIZZIONADOS | HD
+#EXTINF:0,20 | NBA TV | HD
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156469
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/133071
 #EXTINF:0,21 | TNT SPORTS ARG | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/132289
 #EXTINF:0,22 | WIN SPORTS + | HQ
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/335224
 #EXTINF:0,23 | A&E  | SD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139463
@@ -394,15 +394,9 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167560
 #EXTINF:0,147 | TELE ISLAS
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3577
-#EXTINF:0,148 | TELEUNO
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/125913
 #EXTINF:0,149 | TELENTIOQUIA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3578
-#EXTINF:0,150 | TELETICA 7
-#EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/125905
 #EXTINF:0,151 | TELERED
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223551
