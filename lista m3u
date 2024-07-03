@@ -79,9 +79,9 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139466
 #EXTINF:0,28 | STUDIO UNIVERSAL | FHD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139470
-#EXTINF:0,31 | UNIVERSAL TV | SD
+#EXTINF:0,31 | UNIVERSAL TV 
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/236077
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/139473
 #EXTINF:0,33 | UNIVERSAL TV | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139871
@@ -90,7 +90,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139871
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/226702
 #EXTINF:0,35 | SPACE | FHD
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139876
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/139876
 #EXTINF:0,37 | PARAMOUNT NETWORK | HQ
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/139945
@@ -147,7 +147,7 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143719
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/143722
 #EXTINF:0,57 | RETROPLUS TV MOVIES | HD
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3774
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/180441
 #EXTINF:0,58 | FX | HD ENC
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/270526
@@ -483,10 +483,10 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156428
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/150617
 #EXTINF:0,180 | MEGATV
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131633
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/150625
 #EXTINF:0,181 | ECOTEL EC
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/131895
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/325315
 #EXTINF:0,182 | AMERICA TV
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/156406
@@ -526,9 +526,9 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2684
 #EXTINF:0,194 | BEIN SPORTS XTRA Ñ | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/1971
-#EXTINF:0,195 | SKY SPORTS LA LIGA | HD
+#EXTINF:0,195 | SKY SPORTS MX | HD
 #EXTVLCOPT:network-caching=1000
-http://samuraitv.online:8000/movie/b1jNV0Rnye/L4yIsSa8vp/135237.mp4
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/144286
 #EXTINF:0,196 | MOVISTAR LIGA DE CAMPEONES | HD
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/2692
