@@ -394,9 +394,15 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/167560
 #EXTINF:0,147 | TELE ISLAS
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3577
+#EXTINF:0,147 | FOX SPORT PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/146173
 #EXTINF:0,149 | TELENTIOQUIA
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/3578
+#EXTINF:0,150 | CANAL MOTOR USA
+#EXTVLCOPT:network-caching=1000
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/1465318
 #EXTINF:0,151 | TELERED
 #EXTVLCOPT:network-caching=1000
 http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/223551
@@ -559,4 +565,6 @@ http://samuraitv.online:8000/b1jNV0Rnye/L4yIsSa8vp/319459
 #EXTINF:0,206 |  T_UDN MX  | HD
 #EXTVLCOPT:network-caching=1000
 http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/153955
-
+#EXTINF:0,206 |  GARAGE TV
+#EXTVLCOPT:network-caching=1000
+http://dashtvcloud.online:8080/b1jNV0Rnye/L4yIsSa8vp/156422
